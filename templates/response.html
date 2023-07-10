@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 style="margin-left: 5px;">{% block title %} Review Your Resume {% endblock %}</h2>
+
+<form action="/review" method="post" enctype="multipart/form-data">
+    <div class="row">
+        <div class="input-field col s3">
+            <input id="job_role" name="job_role" type="text" class="validate" required>
+            <label for="job_role">Job Role</label>
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s11">
+            <textarea id="job_description" name="job_description" class="materialize-textarea" required></textarea>
+            <label for="job_description">Job Description</label>
+        </div>
+    </div>
+    <div class="row">
+        <div class="file-field input-field col s11">
+            <div class="btn">
+                <span>Upload Resume</span>
+                <input type="file" name="resume" required accept=".pdf">
+            </div>
+            <div class="file-path-wrapper">
+                <input class="file-path validate" type="text">
+            </div>
+        </div>
+
+    </div>
+    <button style="margin-left: 15px;" class="btn waves-effect waves-light" type="submit" name="action">Submit</button>
+
+</form>
+
+{% if message_len > 0 %}
+<div style="margin-left: 10px;">
+    
+    <h4>Job Role</h4>  
+    <p>{{ info['job_role']}} </p>
+
+    <h4>Job Description</h4>
+    <p>{{ info['job_description']}}</p>
+    
+    {% for message in messages %}
+    <div class='message'>
+        <h4>{{ message['Question']|safe }}</h4>
+        <p>{{ message['Answer'] }}</p>
+    </div>
+    {% endfor %}
+</div>
+
+{% endif %}
+{% endblock %}
+

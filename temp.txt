@@ -1,0 +1,40 @@
+
+    Job Role: Director Data and Analytics
+
+    Job Description: 
+
+    As a Director Data & Analytics, you will be responsible for:
+
+Delivering new, commercially re-usable analytics to drive growth in asset, application and industry coverage supporting the SaaS model (supportable by Product Support Teams) with an intensity of focus on analytics idea pipeline generation and model deployment working on close partnership with Services/Front Line teams.
+Having Deep understanding of concepts, approaches and methodology used enriched by suitable field/real life experiences. Deep expertise on the level of a technological field and is considered a senior and seasoned practitioner.
+Playing a critical success factor role in Analytics life cycle management - deployment and delivering analytics based solution working in close collaboration with region services/customer analytics teams applying principles of early learning and rapid experimentation within an iterative model lifecycle approach. Presents product / program strategies, technical roadmaps, risks and recommendations to senior leaders (EB and SEB) across Baker Hughes.
+Communicating recommending and solutioning across direct organization and with with cross-functional partner organizations. Involved in complex decision making sometimes with external parties.
+Fuel your passion
+
+To be successful in this role you will:
+
+Have Bachelor's degree from an accredited university or college. Minimum of 5 additional years of experience in Data Visualization.
+Have Well versed with understanding of standard suite of platform and core module analytics & algorithms (Statistical, Machine Learning, Physics based or other algorithmic techniques used in Industrial settings), software application capabilities, strong engineering (Mechanical, Chemical, Industrial or similar disciplines) & analytics backgrounds, and engages key technical & subject matter experts across the business for knowledge capture into the solution with the objective to driving strategic and tactical direction for the Analytics team.
+Have led and mentored reasonably large Data Sciences and Analytics team from a model development, lifecycle management and SW Platform interaction standpoint.
+Have Inputs and influences decisions within own discipline and area. Has authority in the network of experts and in project teams
+Be instrumental in generating opportunities and potential idea pipeline for analytics based solutions based on extensive field/customer experience. Provide core product requirements to Product Management, Software Engineering & UX Design.
+
+
+    Resume Information:       Keshav Thosar   keshavjaythosar@gmail.com  | +91 7028094231 | linkedin.com/in/keshav -thosar/ EDUCATION   Bachelor of Technology                                August 2019 - Present   Electronics and Telecommunications Engineering                CGPA: 8.9  Sardar Patel Institute of Technology, Mumbai, India     Higher Secondary School Certificate        June 2018 � June 2019   R.L.T. College of Science, Akola, India                  Percentage: 80.95     Secondary School Certificate                     June 2016 � May 2017   Noel School, Akola, India                                               CGPA: 9.4    Reverse Classroom Instructor    Sep 2020 � Jun 2021   � Effectively planned the curriculum and jointly  conducted C Workshop for college students   � Topics covered: Flowcharts, Data Types,  Operators, Loops, Searching, Sorting, Structs,  Unions   PROJECTS   Insti -Tour  (2022)                                                                   Team Project   � A web platform created to cater the needs of  aspiring engineers to find them a college of best fit  using parameters like Score, Distance from home,  etc.  � RPG themed virtual tour with which students can  explore the campus   � Chatbot to deal with any queries.    � Role:  Frontend Development and Project  Managemen t  � Technologies used:  Django, RASA,  Momento360,  PhasorJS, TailwindCSS      Maze Solver  (2022)  � A webapp to visual ize various  path fin ding  algorithms    � Interactive UI where one can plac e source ,  destination,  and obsta cles in a  grid  � Algorithms added : DFS , BFS, A*   � Technologies used : HTML, CSS, JavaScript ,  P5.js      Ellipse (2021)  Team Project   � A platform created for studen ts to explore their  interests a nd solve their queries  efficiently  via  forum s and temporary chatroom s  � Role : Project Management , Backend,  and  Integrations    � Technologies used: Node.js, Express, SocketIO,  Firestore  ACHIEVEMENTS     � Runner up at S.P.I.T. Hackathon 2022 from 100+  teams by developing Insti -Tour   � Received Best Paper Award for r esearch paper  titled �Effective Malware Analysis using Gradient  Boosting and Convolutional Neural Network� at  IBSSC 2021  among 30+ papers from the same  category   � Won third position at BVP TechShuttle�s Te ch-a- Thon 2021 from 80+ teams by creating an asset  sharing platform for hospitals  SKILLS   Programming Languages:  Python, C, C++ , Basic Java   Frontend:  HTML, CSS, Javascript   Backend:  Node.js, Express, Fire store   Others: Git, Jupyter Notebook, Figma   EXPERIENCE   Technical Software Intern, Smowcode   Oct 2020 � Sep 2021   � Added multiple front -end features like variable auto - suggestion, sandboxed conditional rendering, node  data persistence, etc. to the Node -RED based IDE   � Integrated a messaging interface using Comms   Connection  API for effective server -client   communication   � Added encryption/decryption support for intellectual  property protection and command line execution  support to a core binary of the product   � Developed various modules for ESP32  microcontroller to interface with peripherals like Wi - Fi, Ethernet, and OLED     EXTRACURRICULARS   IEEE -SPIT Technical Head    Jun 2021 - Present   � Designed and Overlooked a Tech Quiz alongside  Student Council of college   � Student Ambassador for IEEEXtreme 15.0   � Maintaining the committee website   � Successfully organized HL Series webinars which  revolved around learning to un -judge people and  grow out of biases   � Planned multiple event ideas with the entire  committee     IEEE -SPIT Core Coordinator    Sep 2020 � May 2021   � Successfully organized Web It Up 2021, a web  development competition   � Aptly organized App it Up 2020, an android app  development competition   � Wrote multiple technical articles on topics like RPA,  App development, etc .   
+
+    Please review the resume for the Director Data and Analytics role and answer these questions
+
+    Does the resume meet the requirements? Answer with Yes or No, and provide a reason in under 50 words.
+
+    Tell me about their work experience in under 100 words
+
+    Tell me about their education in under 100 words
+
+    Please answer these questions and give the response in a JSON format like such: 
+    
+    {
+    "questions": [q1, q2...],
+    "answers": [answer of q1, answer of q2]
+    }
+
+    
