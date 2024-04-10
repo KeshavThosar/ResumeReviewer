@@ -4,7 +4,7 @@ import os
 from .utils import *
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '995bc82054adf8ddea92cd10d99afbdef6b02a99aa1fb0c8'
+app.config['SECRET_KEY'] = '<OPEN_AI_KEY>'
 app.config['UPLOAD_FOLDER'] = '/uploads'
 
 
